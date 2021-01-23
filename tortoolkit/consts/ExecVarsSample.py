@@ -8,7 +8,7 @@ except:
         API_HASH = "1a6d26873111473f63ceaa8ba9037ce3"
         API_ID = "2054317"
         BOT_TOKEN = "1571459835:AAEM2HoN6ec8kNo0IckPUYUvYyigBmcapxM"
-        BASE_URL_OF_BOT = "https://gautamleecherbot.herokuapp.com/"
+        BASE_URL_OF_BOT = "https://app-leech1.herokuapp.com/"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1443053231,-1001432689018]
         
