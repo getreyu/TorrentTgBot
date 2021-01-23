@@ -5,12 +5,12 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "c3e3bdcaf3486d3222dcff67a6ea9a77"
-        API_ID = "1600667"
-        BOT_TOKEN = "1540012230:AAGPUnIgp4Ppwd6lqjb2zJ2R8-TUn2VRjjc"
+        API_HASH = "1a6d26873111473f63ceaa8ba9037ce3"
+        API_ID = "2054317"
+        BOT_TOKEN = "1571459835:AAEM2HoN6ec8kNo0IckPUYUvYyigBmcapxM"
         BASE_URL_OF_BOT = "https://gautamleecherbot.herokuapp.com/"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1030989359,-1001206349958]
+        ALD_USR = [1443053231,-1001432689018]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
